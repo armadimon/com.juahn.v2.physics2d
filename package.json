@@ -1,0 +1,10 @@
+{
+  "name": "com.juahn.v2.physics2d",
+  "displayName": "Juahn Low Level Physics 2D",
+  "version": "0.1.0",
+  "unity": "6000.3",
+  "description": "Owns an isolated script-simulated LowLevelPhysics2D world for explicit static geometry queries.",
+  "dependencies": {
+    "com.unity.collections": "2.6.2"
+  }
+}
